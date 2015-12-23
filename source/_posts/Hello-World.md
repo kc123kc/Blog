@@ -11,6 +11,7 @@ tags:
 > * 视频播放
 
 ![](/img/hello.jpg)
+![](http://7xpfm0.com1.z0.glb.clouddn.com/blogholidays-2015-day-1-6575248619077632-hp.jpg?imageView2/1/w/4096/h/4096/q/100|watermark/2/text/QEtD/font/5b6u6L2v6ZuF6buR/fontsize/350/fill/I0JEQkRCRA==/dissolve/80/gravity/SouthEast/dx/10/dy/10)
 
 ``` c
 #include <stdio.h>
