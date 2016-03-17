@@ -20,8 +20,8 @@ public class Test
     {
         string tmpFilePath = "C:\\SvnCommit.tmp";
         List<string> commitFiles = new List<string>();
-        //commitFiles.Add(@"c;/commitFile1.txt");
-        //commitFiles.Add(@"c;/commitFile2.txt");
+        //commitFiles.Add(@"c:/commitFile1.txt");
+        //commitFiles.Add(@"c:/commitFile2.txt");
         using (var s = File.Create(tmpFilePath))
         {
             using (var sw = new StreamWriter(s, new UnicodeEncoding(false, false)))
