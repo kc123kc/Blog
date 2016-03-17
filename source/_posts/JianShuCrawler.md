@@ -4,6 +4,7 @@ tags:
 ---
 ``` python
 import requests
+import json
 from bs4 import BeautifulSoup
 
 
@@ -13,6 +14,12 @@ class JianShuItem(object):
         super(JianShuItem, self).__init__()
         self.title = title
         self.content = content
+
+    def toObj(self):
+        obj = {}
+        obj["title"] = self.title
+        obj["content"] = self.content
+        return obj
 
     def console(self):
         print(self.title)
@@ -37,7 +44,7 @@ class JianShuCrawler(object):
             item = JianShuItem(t.select("a")[0].get_text(),
                                self.getDetail(t.select("a")[0]["href"]))
             item.console()
-            self.stories.append(item)
+            self.stories.append(item.toObj())
 
     def getDetail(self, url):
         contentUrl = 'http://www.jianshu.com' + url
@@ -53,7 +60,15 @@ class JianShuCrawler(object):
         return contentArr
 
     def start(self):
-        self.loadPageItems(1)
+        for i in range(10):
+            self.loadPageItems(i)
+        self.save()
+
+    def save(self):
+        jsonStr = json.dumps(self.stories)
+        print(jsonStr)
+        with open('data.txt', 'wt') as f:
+            f.write(jsonStr)
 
 crawler = JianShuCrawler()
 crawler.start()
