@@ -5,7 +5,7 @@
 # Site
 title: KC的小站
 subtitle:
-description: 我是程序猿
+description: 这家伙真的好懒好懒，什么也没留下
 author: KC
 email: 113813255@qq.com
 language: zh-Hans
@@ -42,7 +42,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: true
+  auto_detect: false
   tab_replace:
 
 # Category & Tag
