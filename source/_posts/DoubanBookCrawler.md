@@ -14,6 +14,7 @@ tags:
 **多个标签**（以文学大类为例）
 ![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f33n1q4cqij30to01qmxr.jpg)
 # 下载地址
+注：如果不能下载的话，请在其他浏览器中打开并重试。
 ## 文学大类
 ![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f33m0yztefj30gt071js7.jpg)
 [直接下载](http://www.skjc423.com/res/文学.xls)
