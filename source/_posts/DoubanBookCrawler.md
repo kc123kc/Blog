@@ -23,27 +23,27 @@ tags:
 ## 流行大类
 ![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f33m14hp77j30ff08n3zn.jpg)
 [直接下载](http://www.skjc423.com/res/流行.xls)
-[网盘下载](http://pan.baidu.com/s/1qY7pSJi)
+[网盘下载](http://pan.baidu.com/s/1pKMALIF)
 ●════════════════════●
 ## 文化大类
 ![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f33m145iw2j30fu08djs9.jpg)
 [直接下载](http://www.skjc423.com/res/文化.xls)
-[网盘下载](http://pan.baidu.com/s/1hrEb9ac)
+[网盘下载](http://pan.baidu.com/s/1gfJJ3j1)
 ●════════════════════●
 ## 生活大类
 ![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f33m14htcpj30fg06374p.jpg)
 [直接下载](http://www.skjc423.com/res/生活.xls)
-[网盘下载](http://pan.baidu.com/s/1eSbMlvs)
+[网盘下载](http://pan.baidu.com/s/1qYquUGc)
 ●════════════════════●
 ## 经管大类
 ![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f33m14c8y3j30f804jq34.jpg)
 [直接下载](http://www.skjc423.com/res/经管.xls)
-[网盘下载](http://pan.baidu.com/s/1o8y64aA)
+[网盘下载](http://pan.baidu.com/s/1gf4QxUV)
 ●════════════════════●
 ## 科技大类
 ![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f33m14hqtlj30ff04omxg.jpg)
 [直接下载](http://www.skjc423.com/res/科技.xls)
-[网盘下载](http://pan.baidu.com/s/1boPHcdx)
+[网盘下载](http://pan.baidu.com/s/1eREL9Nc)
 ●════════════════════●
 ## 封面图合集
 ![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f33mllxeh1j31ch0oa7pe.jpg)
