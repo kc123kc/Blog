@@ -18,7 +18,7 @@ tags:
 ## 文学大类
 ![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f33m0yztefj30gt071js7.jpg)
 [直接下载](http://www.skjc423.com/res/文学.xls)
-[网盘下载](http://pan.baidu.com/s/1i4YYn5N)
+[网盘下载](http://pan.baidu.com/s/1bo4cvef) 
 ●════════════════════●
 ## 流行大类
 ![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f33m14hp77j30ff08n3zn.jpg)
